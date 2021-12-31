@@ -1,7 +1,7 @@
 ## 日常分析常用代码及学习笔记 整理 
 
 ### tap.py
-tap.py为抓取tap社区 玩家发言，可获得玩家在社区的基本信息等<br>采用单线程，线性爬取（文明爬虫）<br>[tap.py](./tap.py)
+tap.py为抓取tap社区 玩家发言，可获得玩家在社区的基本信息等<br>[tap.py](./tap.py)
 
 ### conncet-MySQL。。
 用来使用pd连接数据库，返回DataFrame对象
