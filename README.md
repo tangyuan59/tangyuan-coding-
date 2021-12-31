@@ -12,6 +12,6 @@ tap.py为抓取tap社区 玩家发言，可获得玩家在社区的基本信息�
 ### 流畅的Python
 《流畅的Python》--读书笔记
 <br>包括：代码的实现，
-      <br>过程中的理解。<br>(./流畅的python)
+      <br>过程中的理解。<br>[流畅的python](./流畅的python)
  
   
